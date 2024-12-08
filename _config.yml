@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Jiahui Feng \n (冯家辉)"
+title                    : "Jiahui Feng"
 title_separator          : "-"
-name                     : "Jiahui Feng (冯家辉)"
+name                     : "Jiahui Feng"
 description              : "Focusing on Inforamtion System, Intelligent Decision, and Operation Management."
 repository               : "jhfeng0215/jhfeng0215.github.io"
 google_scholar_stats_use_cdn : true
@@ -24,7 +24,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Jiahui Feng (冯家辉)"
+  name             : "Jiahui Feng"
   avatar           : "images/personal.jpg"
   bio              : "University of Science and Technology of China"
   location         : "Hefei & Hangzhou"
