@@ -39,7 +39,7 @@ redirect_from:
 
 I am actively seeking collaborations. If you are interested in topics related to user behavior (e.g., fraud detection, opportunistic behavior, purchase prediction), new energy ride-hailing (e.g., demand prediction, driving behavior, charging behavior), electricity trading, or data value assessment, or if you have innovative ideas, some datasets in these fields are avaiable. 
 
-If you are seeking any form of academic cooperation, please feel free to email me at:**_jiahuifeng@mail.ustc.edu.cn_**
+If you are seeking any form of academic cooperation, please feel free to email me at: **_jiahuifeng@mail.ustc.edu.cn_**
 
 
 
