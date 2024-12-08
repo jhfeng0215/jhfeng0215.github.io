@@ -70,8 +70,8 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 
 # 🎩 Educations
-- *2021.06 - 2024.12 (now)*, PhD, School of Management, University of Science and Technology of China, Hefei, advised by [Hefu Liu (刘和福)](http://bs.ustc.edu.cn/Chinese/Profile-74.html)
-- *2017.09 - 2021.06*, Undergradate, School of Management, Hefei University of Technology, Hefei, advised by [Yezheng Liu (刘业政)](http://faculty.hfut.edu.cn/~vqInU3/zh_CN/index.htm)
+- *2021.06 - 2024.12 (now)*, PhD, School of Management, University of Science and Technology of China, Hefei, advised by [Hefu Liu](http://bs.ustc.edu.cn/Chinese/Profile-74.html)
+- *2017.09 - 2021.06*, Undergradate, School of Management, Hefei University of Technology, Hefei, advised by [Yezheng Liu](http://faculty.hfut.edu.cn/~vqInU3/zh_CN/index.htm)
 
 
 
