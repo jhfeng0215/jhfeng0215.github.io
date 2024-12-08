@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Yi Ren (任意)"
+title                    : "Jiahui Feng (冯家辉)"
 title_separator          : "-"
-name                     : "Yi Ren (任意)"
-description              : "Master's student at Zhejiang University. Focusing on speech, NLP and music."
-repository               : "rayeren/rayeren.github.io"
+name                     : "Jiahui Feng (冯家辉)"
+description              : "Phd's student at USTC. Focusing on Inforamtion System, Intelligent Decision, Intelligent Traffic and Operation Management."
+repository               : "jhfeng0215/jhfeng0215.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -24,15 +24,15 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
+  name             : "Jiahui Feng (冯家辉)"
   avatar           : "images/ry_profile.jpeg"
-  bio              : "Zhejiang University"
-  location         : "Hangzhou, China"
+  bio              : "University of Science and Technology of China"
+  location         : "Hefei, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren@zju.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : 
+  email            : "jiahuifeng@mail.ustc.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Feng-Jiahui"
   uri              :
   bitbucket        :
   codepen          :
@@ -40,15 +40,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : "jhfeng0215"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
-  dblp             : "https://dblp.org/pid/75/6568-6.html"
-  orcid            : "https://orcid.org/0000-0002-9160-3848"
+  linkedin         : 
+  dblp             : 
+  orcid            : "https://orcid.org/0009-0006-7876-8329"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
