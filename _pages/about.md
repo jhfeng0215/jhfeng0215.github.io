@@ -18,7 +18,7 @@ I am a PhD student at the School of Management, University of Science and Techno
 
 
 
-In addition, I am currently a research intern at DiDi <img src="https://jhfeng0215.github.io/images/didi-logo-1.png" style="width: 3em;"> since November 2023. Previously, I was a research intern at Xiaoan Tech <img src='https://jhfeng0215.github.io/images/images/xian,jpg' style="width: 4em;"> from June 2023 to September 2023. During these internships, I developed algorithms that have been successfully deployed in these companies.
+In addition, I am currently a research intern at DiDi <img src="https://jhfeng0215.github.io/images/didi-logo-1.png" style="width: 3em;"> and orange energy <img src="https://jhfeng0215.github.io/images/xiaoju.jpg" style="width: 3em;"> since November 2023. Previously, I was a research intern at Xiaoan Tech <img src='https://jhfeng0215.github.io/images/xiaoan.jpg' style="width: 4em;"> from June 2023 to September 2023. During these internships, I developed algorithms that have been successfully deployed in these companies.
  
 
 I have published papers at top Information Systems conferences, such as ICIS and PACIS, and in renowned journals. My work has been accepted by ACM Transactions on Knowledge Discovery from Data (TKDD, CCF-B), IEEE Transactions on Intelligent Transportation Systems (IEEE ITS, CCF-B), IEEE Transactions on Engineering Management (IEEE TEM), and Expert Systems with Applications (ESWA, CCF-B).
@@ -39,7 +39,7 @@ I specialize in reinforcement learning approaches, traditional deep learning tec
 
 # 💬 Contact Me
 
-I am actively seeking collaborations. If you are interested in topics related to user behavior (e.g., fraud detection, opportunistic behavior, purchase prediction), new energy ride-hailing (e.g., demand prediction, driving behavior, charging behavior), electricity trading, or data value assessment, or if you have innovative ideas, I have relevant datasets in these fields. 
+I am actively seeking collaborations. If you are interested in topics related to user behavior (e.g., fraud detection, opportunistic behavior, purchase prediction), new energy ride-hailing (e.g., demand prediction, driving behavior, charging behavior), electricity trading, or data value assessment, or if you have innovative ideas, some datasets in these fields is avaiable. 
 
 If you are seeking any form of academic cooperation, please feel free to email me at jiahuifeng@mail.ustc.edu.cn.
 
