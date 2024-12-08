@@ -10,8 +10,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
-
 # 👨 About Me
 
 - I am a PhD student at the School of Management, University of Science and Technology of China (USTC) (中国科学技术大学), Hefei, Anhui. Currently, I am in my second year of the PhD program in Management Science and Engineering (管理科学与工程专业) at USTC, advised by [Hefu Liu (刘和福)](http://bs.ustc.edu.cn/Chinese/Profile-74.html).
