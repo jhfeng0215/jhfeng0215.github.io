@@ -5,29 +5,40 @@ layout: compress
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
-    {% include head.html %}
-    {% include head/custom.html %}
+    {% include head.html %} <!-- Includes site-wide head elements -->
+    {% include head/custom.html %} <!-- Includes custom head elements -->
   </head>
 
   <body>
-
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+    {% include browser-upgrade.html %} <!-- Inform users of outdated browsers -->
+    {% include masthead.html %} <!-- Includes site header/navigation -->
 
     <div id="main" role="main">
-      {% include sidebar.html %}
-    
+      {% include sidebar.html %} <!-- Includes the sidebar -->
+
       <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+        {% if page.title %}
+          <meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">
+        {% endif %}
         <div class="page__inner-wrap">
           <section class="page__content" itemprop="text">
-            {{ content }}
+            {{ content }} <!-- Main page content -->
           </section>
         </div>
       </article>
     </div>
 
-    {% include scripts.html %}
+    <footer>
+      <!-- Analytics container for site visits -->
+      <span id="busuanzi_container_site_pv">
+        本站总访问量 <span id="busuanzi_value_site_pv"></span> 次，
+        本站访客数 <span id="busuanzi_value_site_uv"></span> 人次。
+      </span>
+    </footer>
 
+    {% include scripts.html %} <!-- Includes site-wide scripts -->
+
+    <!-- Busuanzi script for visit tracking -->
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
   </body>
 </html>
