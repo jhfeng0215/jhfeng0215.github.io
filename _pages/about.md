@@ -18,7 +18,7 @@ I am a PhD student at the School of Management, University of Science and Techno
 
 
 
-In addition, I am currently a research intern at DiDi <img src="https://jhfeng0215.github.io/images/didi-logo-1.png" style="width: 4em;"> since November 2023. Previously, I was a research intern at Xiaoan Tech <img src='../images/xian,jpg' style="width: 4em;"> from June 2023 to September 2023. During these internships, I developed algorithms that have been successfully deployed in these companies.
+In addition, I am currently a research intern at DiDi <img src="https://jhfeng0215.github.io/images/didi-logo-1.png" style="width: 3.5em;"> since November 2023. Previously, I was a research intern at Xiaoan Tech <img src='https://jhfeng0215.github.io/images/images/xian,jpg' style="width: 4em;"> from June 2023 to September 2023. During these internships, I developed algorithms that have been successfully deployed in these companies.
  
 
 I have published papers at top Information Systems conferences, such as ICIS and PACIS, and in renowned journals. My work has been accepted by ACM Transactions on Knowledge Discovery from Data (TKDD, CCF-B), IEEE Transactions on Intelligent Transportation Systems (IEEE ITS, CCF-B), IEEE Transactions on Engineering Management (IEEE TEM), and Expert Systems with Applications (ESWA, CCF-B).
