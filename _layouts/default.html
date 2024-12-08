@@ -28,17 +28,27 @@ layout: compress
       </article>
     </div>
 
-    <footer>
-      <!-- Analytics container for site visits -->
-      <span id="busuanzi_container_site_pv">
-        本站总访问量 <span id="busuanzi_value_site_pv"></span> 次，
-        本站访客数 <span id="busuanzi_value_site_uv"></span> 人次。
-      </span>
-    </footer>
+<footer style="text-align: center; margin-top: 20px;">
+  <!-- Analytics container with icons -->
+  <div id="busuanzi_container_site_pv" style="font-size: 14px;">
+    <i class="fa fa-eye" aria-hidden="true" style="margin-right: 5px;"></i>
+    <span id="busuanzi_value_site_pv"></span> 次访问
+  </div>
+  <div id="busuanzi_container_site_uv" style="font-size: 14px; margin-top: 5px;">
+    <i class="fa fa-users" aria-hidden="true" style="margin-right: 5px;"></i>
+    <span id="busuanzi_value_site_uv"></span> 人次
+  </div>
+</footer>
+
+<!-- Include Font Awesome -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/js/all.min.js" defer></script>
+
+<!-- Busuanzi script for tracking -->
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
 
     {% include scripts.html %} <!-- Includes site-wide scripts -->
 
-    <!-- Busuanzi script for visit tracking -->
-    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
   </body>
 </html>
