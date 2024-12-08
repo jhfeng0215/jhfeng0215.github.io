@@ -10,6 +10,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+ <p align="center">
+    <!-- https://github.com/DenverCoder1/readme-typing-svg -->
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!" />
+</p>
+
+
 # 👨 About Me
 
 - I am a Ph.D. student at the School of Management, University of Science and Technology of China (USTC) (中国科学技术大学), Hefei, Anhui. Currently, I am in my second year of the PhD program in Management Science and Engineering (管理科学与工程专业) at USTC, advised by [Hefu Liu (刘和福)](http://bs.ustc.edu.cn/Chinese/Profile-74.html).
