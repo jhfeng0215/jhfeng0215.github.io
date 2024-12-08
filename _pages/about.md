@@ -14,32 +14,26 @@ redirect_from:
 
 # 👨 About Me
 
-I am a PhD student at the School of Management, University of Science and Technology of China (USTC) (中国科学技术大学), Hefei, Anhui. Currently, I am in my second year of the PhD program in Management Science and Engineering (管理科学与工程专业) at USTC, advised by [Hefu Liu (刘和福)](http://bs.ustc.edu.cn/Chinese/Profile-74.html). 
+- I am a PhD student at the School of Management, University of Science and Technology of China (USTC) (中国科学技术大学), Hefei, Anhui. Currently, I am in my second year of the PhD program in Management Science and Engineering (管理科学与工程专业) at USTC, advised by [Hefu Liu (刘和福)](http://bs.ustc.edu.cn/Chinese/Profile-74.html).
+- In addition, I am currently a research intern at DiDi <img src="https://jhfeng0215.github.io/images/didi-logo-1.png" style="width: 3em;"> and orange energy <img src="https://jhfeng0215.github.io/images/xiaoju.jpg" style="width: 3em;"> since November 2023. Previously, I was a research intern at Xiaoan Tech <img src='https://jhfeng0215.github.io/images/xiaoan.jpg' style="width: 1em;"> from June 2023 to September 2023. During these internships, I developed algorithms that have been successfully deployed in these companies.
+- I have published papers at top Information Systems conferences, such as ICIS and PACIS, and in renowned journals. My work has been accepted by ACM Transactions on Knowledge Discovery from Data (TKDD, CCF-B), IEEE Transactions on Intelligent Transportation Systems (IEEE ITS, CCF-B), IEEE Transactions on Engineering Management (IEEE TEM), and Expert Systems with Applications (ESWA, CCF-B).
+- 🔍 My current research interests involve:
+  - **Customer Behavior Analysis** (Information Systems direction):
+    - Recommendation, Purchase Prediction, Fraud Detection, and more.
+    - Driving Behavior of Ride-Hailing Drivers.
+  - **Traffic Prediction & Scheduling** (Intelligent Transportation direction):
+    - Traffic Prediction, Large-Scale Scheduling, New Energy Vehicle Charging, and more.
+  - **Digital Commerce and Platform Economy** (Operation Management):
+    - EV Charging Station Configuration and Marketing.
 
-
-
-In addition, I am currently a research intern at DiDi <img src="https://jhfeng0215.github.io/images/didi-logo-1.png" style="width: 3em;"> and orange energy <img src="https://jhfeng0215.github.io/images/xiaoju.jpg" style="width: 3em;"> since November 2023. Previously, I was a research intern at Xiaoan Tech <img src='https://jhfeng0215.github.io/images/xiaoan.jpg' style="width: 4em;"> from June 2023 to September 2023. During these internships, I developed algorithms that have been successfully deployed in these companies.
- 
-
-I have published papers at top Information Systems conferences, such as ICIS and PACIS, and in renowned journals. My work has been accepted by ACM Transactions on Knowledge Discovery from Data (TKDD, CCF-B), IEEE Transactions on Intelligent Transportation Systems (IEEE ITS, CCF-B), IEEE Transactions on Engineering Management (IEEE TEM), and Expert Systems with Applications (ESWA, CCF-B).
-
-My current research interests involve:
-- **Customer Behavior Analysis** (Information Systems direction):
-  - Recommendation, Purchase Prediction, Fraud Detection, and more.
-  - Driving Behavior of Ride-Hailing Drivers.
-- **Traffic Prediction & Scheduling** (Intelligent Transportation direction):
-  - Traffic Prediction, Large-Scale Scheduling, New Energy Vehicle Charging, and more.
-- **Digital Commerce and Platform Economy** (Operation Management):
-  - EV Charging Station Configuration and Marketing.
-
-### Research Methods:
-I specialize in reinforcement learning approaches, traditional deep learning techniques (including Graph Neural Networks (GNN), Hyper-GNN, and Kolmogorov-Arnold Networks (KAN)), empirical methods (such as Difference-in-Differences (DID) and its variants), large-scale field experiments in companies, as well as interpretable deep learning methods.
+- 🔦 Research Methods:
+  I specialize in reinforcement learning approaches, traditional deep learning techniques (including Graph Neural Networks (GNN), Hyper-GNN, and Kolmogorov-Arnold Networks (KAN)), empirical methods (such as Difference-in-Differences (DID) and its variants), large-scale field experiments in companies, as well as interpretable deep learning methods.
 
 
 
 # 💬 Contact Me
 
-I am actively seeking collaborations. If you are interested in topics related to user behavior (e.g., fraud detection, opportunistic behavior, purchase prediction), new energy ride-hailing (e.g., demand prediction, driving behavior, charging behavior), electricity trading, or data value assessment, or if you have innovative ideas, some datasets in these fields is avaiable. 
+I am actively seeking collaborations. If you are interested in topics related to user behavior (e.g., fraud detection, opportunistic behavior, purchase prediction), new energy ride-hailing (e.g., demand prediction, driving behavior, charging behavior), electricity trading, or data value assessment, or if you have innovative ideas, some datasets in these fields are avaiable. 
 
 If you are seeking any form of academic cooperation, please feel free to email me at jiahuifeng@mail.ustc.edu.cn.
 
