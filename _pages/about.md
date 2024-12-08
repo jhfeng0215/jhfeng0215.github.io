@@ -14,24 +14,32 @@ redirect_from:
 
 # 👨 About Me
 
-I am a PhD student at the School of Management, University of Science and Technology of China (USTC) (中国科学技术大学), Hefei, Anhui. Currently, I am in my second year of the PhD program in Management Science and Engineering (管理学院管理科学与工程专业) at USTC, advised by [Hefu Liu (刘和福)](http://bs.ustc.edu.cn/Chinese/Profile-74.html). 
+I am a PhD student at the School of Management, University of Science and Technology of China (USTC) (中国科学技术大学), Hefei, Anhui. Currently, I am in my second year of the PhD program in Management Science and Engineering (管理科学与工程专业) at USTC, advised by [Hefu Liu (刘和福)](http://bs.ustc.edu.cn/Chinese/Profile-74.html). 
 
 In addition, I am currently a research intern at DiDi <img src='./images/didi-log-1.png' style="width: 4em;"> since November 2023. Previously, I was a research intern at Xiaoan Tech <img src='./images/xian,jpg' style="width: 4em;"> from June 2023 to September 2023. During these internships, I developed algorithms that have been successfully deployed in these companies.
  
 
-
-
-My research interests include Customer Behavior Analysis (Information Systems direction), Traffic Prediction & Scheduling (Intelligent Transportation direction), and Operation Management (Classical Management). I am particularly interested in research methods such as traditional deep learning techniques, reinforcement learning approaches (including Graph Neural Networks (GNN), Hyper-GNN, and Kolmogorov-Arnold Networks (KAN)), as well as interpretable deep learning methods. Additionally, I am exploring empirical methods and field experiment skills.
-
 I have published papers at top Information Systems conferences, such as ICIS and PACIS, and in renowned journals. My work has been accepted by ACM Transactions on Knowledge Discovery from Data (TKDD, CCF-B), IEEE Transactions on Intelligent Transportation Systems (IEEE ITS, CCF-B), IEEE Transactions on Engineering Management (IEEE TEM), and Expert Systems with Applications (ESWA, CCF-B).
 
+My current research interests involve:
+- **Customer Behavior Analysis** (Information Systems direction):
+  - Recommendation, Purchase Prediction, Fraud Detection, and more.
+  - Driving Behavior of Ride-Hailing Drivers.
+- **Traffic Prediction & Scheduling** (Intelligent Transportation direction):
+  - Traffic Prediction, Large-Scale Scheduling, New Energy Vehicle Charging, and more.
+- **Digital Commerce and Platform Economy** (Operation Management):
+  - EV Charging Station Configuration and Marketing.
+
+### Research Methods:
+I specialize in reinforcement learning approaches, traditional deep learning techniques (including Graph Neural Networks (GNN), Hyper-GNN, and Kolmogorov-Arnold Networks (KAN)), empirical methods (such as Difference-in-Differences (DID) and its variants), large-scale field experiments in companies, as well as interpretable deep learning methods.
 
 
 
 # 💬 Contact Me
 
+I am actively seeking collaborations. If you are interested in topics related to user behavior (e.g., fraud detection, opportunistic behavior, purchase prediction), new energy ride-hailing (e.g., demand prediction, driving behavior, charging behavior), electricity trading, or data value assessment, or if you have innovative ideas, I have relevant datasets in these fields. 
 
-
+If you are seeking any form of academic cooperation, please feel free to email me at jiahuifeng@mail.ustc.edu.cn.
 
 
 
@@ -46,7 +54,7 @@ I have published papers at top Information Systems conferences, such as ICIS and
 
 # 📝 Publications 
 
-## 🖥️🖥 Informtion System Direction 
+## 🖥️ Informtion System Direction 
 - [Optimizing Restaurant Customer Flow and Revenue with Real-Time Coupon Allocation: A Deep Reinforcement Learning Approach](https://aisel.aisnet.org/icis2024/data_soc/data_soc/9/), **Jiahui Feng**, Juntao Wu, Meng Chen, Juan Qin, _ICIS 2024_
 
 
@@ -61,7 +69,7 @@ I have published papers at top Information Systems conferences, such as ICIS and
 
 
 
-# 📖 Educations
+# 🎩 Educations
 - *2021.06 - 2024.12 (now)*, PhD, School of Management, University of Science and Technology of China, Hefei, advised by [Hefu Liu (刘和福)](http://bs.ustc.edu.cn/Chinese/Profile-74.html)
 - *2017.09 - 2021.06*, Undergradate, School of Management, Hefei University of Technology, Hefei, advised by [Yezheng Liu (刘业政)](http://faculty.hfut.edu.cn/~vqInU3/zh_CN/index.htm)
 
@@ -74,3 +82,11 @@ I have published papers at top Information Systems conferences, such as ICIS and
 
 - *2023.06 - 2023.09*, [Xiaoan Tech](https://www.xiaoantech.com), Wuhan.
   - Developed a shared bike prediction deep learning algorithm used to forecast the number of rented and returned bikes in over 200 regions in China.
+ 
+# 📖 Academic Services
+- Peer Reviewer for Journals and Conferences
+  * International Conference on Information Systems (ICIS)
+  * Pacific Asia Conference on Information Systems (PACIS)
+  * Summer Workshop on Information Management (CSWIM)
+  * IEEE Transactions on Intelligent Transportation Systems (IEEE ITS)
+  * ACM Transactions on Knowledge Discovery from Data (TKDD)
