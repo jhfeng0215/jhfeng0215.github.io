@@ -4,7 +4,7 @@ main:
     url: "/#about-me"
 
   - title: "Contact Me"
-    url: "/#-contact me"
+    url: "/#-contact-me"
 
   - title: "Publications"
     url: "/#-publications"
@@ -18,4 +18,4 @@ main:
     url: "/#-internships"
     
   - title: "Academic Services"
-      url: "/#-academic serives"
+      url: "/#-academic-serives"
