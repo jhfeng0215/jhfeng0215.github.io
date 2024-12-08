@@ -16,7 +16,7 @@ redirect_from:
 </p>
 
 
-# 👨 About Me
+# 🐰 About Me
 
 - I am a Ph.D. student at the School of Management, University of Science and Technology of China (USTC) (中国科学技术大学), Hefei, Anhui. Currently, I am in my second year of the PhD program in Management Science and Engineering (管理科学与工程专业) at USTC, advised by [Hefu Liu (刘和福)](http://bs.ustc.edu.cn/Chinese/Profile-74.html).
 - In addition, I am currently a research intern at DiDi <img src="https://jhfeng0215.github.io/images/didi-logo-1.png" style="width: 3em;"> and orange energy <img src="https://jhfeng0215.github.io/images/xiaoju.jpg" style="width: 3em;"> since November 2023. Previously, I was a research intern at Xiaoan Tech <img src='https://jhfeng0215.github.io/images/xiaoan.jpg' style="width: 1em;"> from June 2023 to September 2023. During these internships, I developed algorithms that have been successfully deployed in these companies.
@@ -62,7 +62,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 - [A Data-Driven Adaptive Spatial-Temporal Method for Docked Shared Bike Prediction](https://ieeexplore.ieee.org/abstract/document/10552418), **Jiahui Feng**, Hefu Liu, _IEEE Transactions on Intelligent Transportation Systems_
 - [A Spatial-Temporal Aggregated Graph Neural Network for Docked Bike-sharing Demand Forecasting](https://dl.acm.org/doi/abs/10.1145/3690388), **Jiahui Feng**, Hefu Liu, Jingmei Zhou, Yang Zhou, _ACM Transactions on Knowledge Discovery from Data_
 - [An end to end two-stream framework for station-level bike-sharing flow prediction](https://www.sciencedirect.com/science/article/abs/pii/S0957417424001386), Xiaoyu Yao, **Jiahui Feng**, _Expert Systems with Applications_
-- [Service level optimizing and shared bike rebalancing based on multi-agent deep reinforcement learningc](https://aisel.aisnet.org/pacis2024/track01_aibussoc/track01_aibussoc/20/), **Jiahui Feng**, Yingbo Li _PACIS 2024_
+- [Service level optimizing and shared bike rebalancing based on multi-agent deep reinforcement learningc](https://aisel.aisnet.org/pacis2024/track01_aibussoc/track01_aibussoc/20/), **Jiahui Feng**, Yingbo Li, Hefu Liu, _PACIS 2024_
 
 ## 🤖 Operation Mangement
 - [Digital Transformation and Innovation Strategy Selection: The Contingent Impact of Organizational and Environmental Factors](https://ieeexplore.ieee.org/abstract/document/10304400), Yangzhou, Jingjun Xu, Zhiying Liu, **Jiahui Feng**, _IEEE Transactions on Engineering Management_
