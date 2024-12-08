@@ -10,9 +10,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+
+
 # 👨 About Me
 
-I am a PhD student at the School of Management, University of Science and Technology of China (USTC) (中国科学技术大学), Hefei, Anhui. Currently, I am in my second year of the PhD program in Management Science and Engineering (管理学院管理科学与工程专业) at USTC, advised by [Hefu Liu (刘和福)](http://bs.ustc.edu.cn/Chinese/Profile-74.html). I also collaborate closely with [Meng Chen (陈猛)](https://bs.ustc.edu.cn/chinese/profile-2125.html) and [Juan Qin (秦婉)](https://bs.ustc.edu.cn/chinese/profile-1881.html) from USTC.
+I am a PhD student at the School of Management, University of Science and Technology of China (USTC) (中国科学技术大学), Hefei, Anhui. Currently, I am in my second year of the PhD program in Management Science and Engineering (管理学院管理科学与工程专业) at USTC, advised by [Hefu Liu (刘和福)](http://bs.ustc.edu.cn/Chinese/Profile-74.html). 
 
 In addition, I am currently a research intern at DiDi <img src='./images/microsoft_logo.svg' style="width: 4em;"> since November 2023. Previously, I was a research intern at Xiaoan Tech <img src='./images/microsoft_logo.svg' style="width: 4em;"> from June 2023 to September 2023. During these internships, I developed algorithms that have been successfully deployed in these companies.
  
