@@ -31,13 +31,13 @@ redirect_from:
     - EV Charging Station Configuration and Marketing.
 
 - 🔦 Research Methods:
-  I specialize in reinforcement learning approaches, traditional deep learning techniques (including Graph Neural Networks (GNN), Hyper-GNN, and Kolmogorov-Arnold Networks (KAN)), empirical methods (such as Difference-in-Differences (DID) and its variants), large-scale field experiments in companies, as well as interpretable deep learning methods.
+  I specialize in deep reinforcement learning approaches, traditional deep learning techniques (including Graph Neural Networks (GNN), Hyper-GNN), empirical methods (such as Difference-in-Differences (DID) and its variants), large-scale field experiments in companies. I also focus on the interpretability and causality of models.
 
 
 
 # 💬 Contact Me
 
-I am actively seeking collaborations. If you are interested in topics related to user behavior (e.g., fraud detection, opportunistic behavior, purchase prediction), new energy ride-hailing (e.g., demand prediction, driving behavior, charging behavior), electricity trading, or data value assessment, or if you have innovative ideas, some datasets in these fields are avaiable. 
+I am actively seeking collaborations. If you are interested in topics related to user behavior (e.g., fraud detection, opportunistic behavior, purchase prediction), intelligent transportation (e.g., new energy ride-hailing, demand prediction, driving behavior, charging behavior, charging stations), electricity trading, or data value assessment, or if you have innovative ideas, some datasets in these fields are avaiable. 
 
 If you are seeking any form of academic cooperation, please feel free to email me at: **_jiahuifeng@mail.ustc.edu.cn_**
 
@@ -72,7 +72,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 
 # 🎩 Educations
-- *2021.06 - 2024.12 (now)*, PhD, School of Management, University of Science and Technology of China, Hefei, advised by [Hefu Liu](http://bs.ustc.edu.cn/Chinese/Profile-74.html)
+- *2021.06 - Now*, PhD, School of Management, University of Science and Technology of China, Hefei, advised by [Hefu Liu](http://bs.ustc.edu.cn/Chinese/Profile-74.html)
 - *2017.09 - 2021.06*, Undergradate, School of Management, Hefei University of Technology, Hefei, advised by [Yezheng Liu](http://faculty.hfut.edu.cn/~vqInU3/zh_CN/index.htm)
 
 
