@@ -47,6 +47,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 # 🔥 News
 - *2024.12*: &nbsp;🚗🚗 Some works are on the road!
 - *2024.08*: &nbsp;🎉🎉 Our work "[Optimizing Restaurant Customer Flow and Revenue with Real-Time Coupon Allocation: A Deep Reinforcement Learning Approach](https://aisel.aisnet.org/icis2024/data_soc/data_soc/9/)" has been accepted at ICIS 2024!
+  - Best Paper Nominee @ICIS2024
 - *2024.05*: &nbsp;🎉🎉 Our work "[Service Level Optimizing and Shared Bike Rebalancing Based on Multi-Agent Deep Reinforcement Learning](https://aisel.aisnet.org/pacis2024/track01_aibussoc/track01_aibussoc/20/)" has been accepted at PACIS 2024.
 
 
@@ -91,3 +92,4 @@ If you are seeking any form of academic cooperation, please feel free to email m
   * Summer Workshop on Information Management (CSWIM)
   * IEEE Transactions on Intelligent Transportation Systems (IEEE ITS)
   * ACM Transactions on Knowledge Discovery from Data (TKDD)
+  * Industrial Management & Data Systems (IM&DS)
