@@ -12,13 +12,13 @@ redirect_from:
 
  <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+profile+page+!;I’ve+been+waiting+for+you+for+a+long+time." />
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+profile+page!;I’ve+been+waiting+for+you+for+a+long+time!" />
 </p>
 
 
 # 🐰 About Me
 
-- I am a Ph.D. student at the School of Management, University of Science and Technology of China (USTC) (中国科学技术大学), Hefei, Anhui. Currently, I am in my second year of the PhD program in Management Science and Engineering (管理科学与工程专业) at USTC, advised by [Hefu Liu (刘和福)](http://bs.ustc.edu.cn/Chinese/Profile-74.html).
+- I am a Ph.D. student at the School of Management, University of Science and Technology of China (USTC) (中国科学技术大学), Hefei, Anhui. Currently, I am in my third year of the PhD program in Management Science and Engineering (管理科学与工程专业) at USTC, advised by Prof. [Hefu Liu (刘和福)](http://bs.ustc.edu.cn/Chinese/Profile-74.html).
 - In addition, I am currently a research intern at DiDi <img src="https://jhfeng0215.github.io/images/didi-logo-1.png" style="width: 3em;"> and orange energy <img src="https://jhfeng0215.github.io/images/xiaoju.jpg" style="width: 3em;"> since November 2023. Previously, I was a research intern at Xiaoan Tech <img src='https://jhfeng0215.github.io/images/xiaoan.jpg' style="width: 1em;"> from June 2023 to September 2023. During these internships, I developed algorithms that have been successfully deployed in these companies.
 - I have published papers at top Information Systems conferences, such as ICIS and PACIS, and in renowned journals. My work has been accepted by ACM Transactions on Knowledge Discovery from Data (TKDD, CCF-B), IEEE Transactions on Intelligent Transportation Systems (IEEE ITS, CCF-B), IEEE Transactions on Engineering Management (IEEE TEM), and Expert Systems with Applications (ESWA, CCF-B).
 - 🔍 My current research interests involve:
@@ -45,10 +45,12 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🚗🚗 Some works are on the road!
-- *2024.08*: &nbsp;🎉🎉 Our work "[Optimizing Restaurant Customer Flow and Revenue with Real-Time Coupon Allocation: A Deep Reinforcement Learning Approach](https://aisel.aisnet.org/icis2024/data_soc/data_soc/9/)" has been accepted at ICIS 2024!
+- *2025.05*: &nbsp;🚗🚗 More works are on the road!
+- *2025.04*: &nbsp;🎉🎉 Our work "Actions Reveal Intent: A Causal-inference Hierarchical Graph Representation Learning for Preventing Fraud Behavior in Buy Now, Pay Later" has been accepted at SWAIB@2025!
+- *2025.04*: &nbsp;🎉🎉 Our work "Beyond the Match: Predicting Bilateral-matching Satisfaction with Multi-view Heterogeneous Graph Neural Network" has been accepted at SWAIB@2025!
+- *2024.12*: &nbsp;🎉🎉 Our work "[Optimizing Restaurant Customer Flow and Revenue with Real-Time Coupon Allocation: A Deep Reinforcement Learning Approach](https://aisel.aisnet.org/icis2024/data_soc/data_soc/9/)" has been accepted at ICIS 2024!
   - Best Paper Nominee @ICIS2024
-- *2024.05*: &nbsp;🎉🎉 Our work "[Service Level Optimizing and Shared Bike Rebalancing Based on Multi-Agent Deep Reinforcement Learning](https://aisel.aisnet.org/pacis2024/track01_aibussoc/track01_aibussoc/20/)" has been accepted at PACIS 2024.
+
 
 
 
@@ -72,15 +74,18 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 
 # 🎩 Educations
-- *2021.06 - Now*, PhD, School of Management, University of Science and Technology of China, Hefei, advised by [Hefu Liu](http://bs.ustc.edu.cn/Chinese/Profile-74.html)
+- *2021.07 - Now*, PhD, School of Management, University of Science and Technology of China, Hefei, advised by [Hefu Liu](http://bs.ustc.edu.cn/Chinese/Profile-74.html)
 - *2017.09 - 2021.06*, Undergradate, School of Management, Hefei University of Technology, Hefei, advised by [Yezheng Liu](http://faculty.hfut.edu.cn/~vqInU3/zh_CN/index.htm)
 
 
 
 # 👨‍💻 Internships
 - *2023.11 - Now*, [DiDi](https://web.didiglobal.com), Hangzhou.
-  - Developed a fraud detection deep learning algorithm based on customer clickstream data in the app, used to identify opportunistic users. More than 1,000,000 customers experience this algorithm daily.
-  - Developed electric demand prediction and intelligent trading algorithms using reinforcement learning.
+  - *2023.11, Developed a deep learning–based fraud detection algorithm leveraging in-app customer clickstream data to identify fraudster; the system is used by over 1 million customers daily.
+  - *2024.04, Developed electric demand forecasting and intelligent trading algorithms using reinforcement learning to enhance energy management.
+  - *2025.03 Developed a driver–passenger matching satisfaction prediction algorithm, aiming to improve overall user matching experiences.
+  - More works are on the road!
+
 
 - *2023.06 - 2023.09*, [Xiaoan Tech](https://www.xiaoantech.com), Wuhan.
   - Developed a shared bike prediction deep learning algorithm used to forecast the number of rented and returned bikes in over 200 regions in China.
