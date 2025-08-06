@@ -20,7 +20,7 @@ redirect_from:
 
 - I am a third-year Ph.D. student in Management Science and Engineering  (管理科学与工程专业) at the School of Management, University of Science and Technology of China (USTC) (中国科学技术大学), majoring in Information Systems, under the supervision of Prof. [Hefu Liu (刘和福)](http://bs.ustc.edu.cn/Chinese/Profile-74.html). Currently, I am a visiting student in the Department of Civil and Environmental Engineering at the National University of Singapore (NUS), where I am advised by Prof. [Yang Liu](https://cde.nus.edu.sg/cee/staff/liu-yang/).
 
-- In addition, I am currently a deep learning research intern at Tiktok  <img src="https://jhfeng0215.github.io/images/tikok.jpg" style="width: 3em;">, Singapore. Previously, I worked as a research intern at DiDi <img src="https://jhfeng0215.github.io/images/didi-logo-1.png" style="width: 3em;"> and orange energy <img src="https://jhfeng0215.github.io/images/xiaoju.jpg" style="width: 3em;"> from November 2023 to July 2025, and at Xiaoan Tech <img src='https://jhfeng0215.github.io/images/xiaoan.jpg' style="width: 1em;"> from June 2023 to September 2023. During these internships, I developed some algorithms that have been successfully deployed in these companies.
+- In addition, I am currently a deep learning research intern at Tiktok  <img src="https://jhfeng0215.github.io/images/tiktok.jpg" style="width: 3em;">, Singapore. Previously, I worked as a research intern at DiDi <img src="https://jhfeng0215.github.io/images/didi-logo-1.png" style="width: 3em;"> and orange energy <img src="https://jhfeng0215.github.io/images/xiaoju.jpg" style="width: 3em;"> from November 2023 to July 2025, and at Xiaoan Tech <img src='https://jhfeng0215.github.io/images/xiaoan.jpg' style="width: 1em;"> from June 2023 to September 2023. During these internships, I developed some algorithms that have been successfully deployed in these companies.
   
 - I have published papers at top Information Systems conferences, such as ICIS and PACIS, and in renowned journals. My work has been accepted by ACM Transactions on Knowledge Discovery from Data (TKDD, CCF-B), IEEE Transactions on Intelligent Transportation Systems (IEEE ITS, CCF-B), IEEE Transactions on Engineering Management (IEEE TEM), and Expert Systems with Applications (ESWA, CCF-B).
 - 🔍 My current research interests involve:
@@ -74,18 +74,18 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 
 # 🎩 Educations
-- *2025.08 - Now*, Visiting Student, Department of Civil and Environmental Engineering, National University of Singapore, Singapore, advised by [Yang Liu](https://cde.nus.edu.sg/cee/staff/liu-yang/)
-- *2021.07 - Now*, PhD, School of Management, University of Science and Technology of China, Hefei, Anhui, advised by [Hefu Liu](http://bs.ustc.edu.cn/Chinese/Profile-74.html)
-- *2017.09 - 2021.06*, Undergradate, School of Management, Hefei University of Technology, Hefei, Anhui, advised by [Yezheng Liu](http://faculty.hfut.edu.cn/~vqInU3/zh_CN/index.htm)
+- *2025.08 - Now*, Visiting Student, Department of Civil and Environmental Engineering, National University of Singapore, Singapore, advised by [Yang Liu](https://cde.nus.edu.sg/cee/staff/liu-yang/).
+- *2021.07 - Now*, PhD, School of Management, University of Science and Technology of China, Hefei, Anhui, advised by [Hefu Liu](http://bs.ustc.edu.cn/Chinese/Profile-74.html).
+- *2017.09 - 2021.06*, Undergradate, School of Management, Hefei University of Technology, Hefei, Anhui, advised by [Yezheng Liu](http://faculty.hfut.edu.cn/~vqInU3/zh_CN/index.htm).
 
 
 
 # 👨‍💻 Internships
-- *2025.8 - Now*, [TikTok](https://www.tiktok.com/404?fromUrl=/Zh), Singapore, Deep Learning Engineer Intern.
+- *2025.8 - Now*, [TikTok](https://www.tiktok.com/404?fromUrl=/Zh) <img src="https://jhfeng0215.github.io/images/tiktok.jpg" style="width: 3em;">, Singapore, Deep Learning Engineer Intern.
   - More works are on the road!
   
   
-- *2023.11 - 2025.7*, [DiDi Global](https://web.didiglobal.com), Hangzhou, Data Operations & Analysis Intern.
+- *2023.11 - 2025.7*, [DiDi Global](https://web.didiglobal.com)<img src="https://jhfeng0215.github.io/images/didi-logo-1.png" style="width: 3em;">, Hangzhou, Data Operations & Analysis Intern.
   - *2023.11, Developed a deep learning–based fraud detection algorithm leveraging in-app customer clickstream data to identify fraudster; the system is used by over 1 million customers daily.
   - *2024.04, Developed electric demand forecasting and intelligent trading algorithms using reinforcement learning to enhance energy management.
   - *2025.03, Developed a driver–passenger matching satisfaction prediction algorithm, aiming to improve overall user matching experiences.
