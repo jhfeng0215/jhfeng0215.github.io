@@ -81,8 +81,6 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 
 # 👨‍💻 Internships
-- *2025.8 - Now*, [TikTok](https://www.tiktok.com/404?fromUrl=/Zh) <img src="https://jhfeng0215.github.io/images/tiktok.png" style="width: 1em;">, Singapore, Deep Learning Engineer Intern.
-  - More works are on the road!
   
   
 - *2023.11 - 2025.7*, [DiDi Global](https://web.didiglobal.com)<img src="https://jhfeng0215.github.io/images/didi-logo-1.png" style="width: 3em;">, Hangzhou, Data Operations & Analysis Intern.
